@@ -1,0 +1,45 @@
+Folder PATH listing for volume MSI SPATIUM M480 PRO
+Volume serial number is 1C92-E16B
+D:.
+¦   .gitignore
+¦   LICENSE
+¦   README.md
+¦   structure.txt
+¦   
++---Data
+¦   +---Images
+¦   ¦       AppDashboard_1.png
+¦   ¦       AppDashboard_2.png
+¦   ¦       confusion_matrix.png
+¦   ¦       PowerBIPage1.png
+¦   ¦       PowerBIPage2.png
+¦   ¦       PowerBIPage3.png
+¦   ¦       sensor_correlation_matrix.png
+¦   ¦       top10_feature_importances.png
+¦   ¦       
+¦   +---Table
+¦           classification_report.csv
+¦           confusion_matrix.csv
+¦           sensor_correlation_matrix.csv
+¦           top10_feature_importances.csv
+¦           
++---Dataset
+¦       .gitkeep
+¦       Data Description_Metro.pdf
+¦       MetroPT3(AirCompressor).csv
+¦       Test.csv
+¦       
++---Interface
+¦       app.py
+¦       
++---Model
+¦       model_features.pkl
+¦       xgb_compressor_model.pkl
+¦       
++---Notebook
+¦       main.ipynb
+¦       main.py
+¦       
++---Report
+        Report.pbix
+        
